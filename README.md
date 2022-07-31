@@ -1,2 +1,2 @@
-# Only-internship-task1
-Репозиторий по стажировке Only. Задание 1.
+# Only-internship
+Репозиторий по стажировке Only.
