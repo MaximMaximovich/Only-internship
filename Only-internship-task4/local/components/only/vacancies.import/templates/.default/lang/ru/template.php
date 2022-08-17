@@ -1,0 +1,11 @@
+<?php
+$MESS['ONLY_VACANCIES_IMPORT_DEFAULT_TEMPLATE_ERROR1'] = 'Модуль iblock не подключен';
+$MESS['ONLY_VACANCIES_IMPORT_DEFAULT_TEMPLATE_ERROR2'] = 'Не указан параметр IBLOCK_CODE в настройках компонента only:vacancies.import';
+$MESS['ONLY_VACANCIES_IMPORT_DEFAULT_TEMPLATE_ERROR3'] = 'Отсутствует инфоблок VACANCIES';
+$MESS['ONLY_VACANCIES_IMPORT_DEFAULT_TEMPLATE_ERROR4'] = 'Ошибка импорта';
+$MESS['ONLY_VACANCIES_IMPORT_DEFAULT_TEMPLATE_MESSAGE1'] = 'Импорт успешно завершен';
+$MESS['ONLY_VACANCIES_IMPORT_TEMPLATE_FORM_TITLE'] = 'Импорт вакансий из файла CSV';
+$MESS['ONLY_VACANCIES_IMPORT_TEMPLATE_FORM_BUTTON_TITLE'] = 'Импорт';
+$MESS['ONLY_VACANCIES_IMPORT_TEMPLATE_ADD_START_MESSAGE'] = "Импорт начался! Дождитесь результатов загрузки.";
+
+

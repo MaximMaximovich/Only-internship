@@ -1,0 +1,5 @@
+<?php
+$MESS['ONLY_VACANCIES_IMPORT_COMPONENT_NAME'] = 'Компонент для импорта вакансий в инфоблок VACANCIES';
+$MESS['ONLY_VACANCIES_IMPORT_COMPONENT_DESCRIPTION'] = 'Компонент для импорта вакансий в инфоблок VACANCIES';
+$MESS['ONLY_VACANCIES_IMPORT_COMPONENT_PATH_ID'] = 'only_local';
+$MESS['ONLY_VACANCIES_IMPORT_COMPONENT_PATH_NAME'] = 'Only';
