@@ -15,11 +15,11 @@
 На проверку прислать модуль с написанными функциями, init.php и скриншот с подключением агента в админке.  
 
 # Решение
-Выполнил все требуемые пункты задания.
-Подписка на события OnAfterIBlockElementAdd и OnAfterIBlockElementUpdate - /local/php_interface/init.php
-Модуль only.site - /local/modules/only.site
-Обработчик событий - /local/modules/only.site/lib/Handlers/Iblock.php
-Агент удаляющий логи - /local/modules/only.site/lib/Agents/Iblock.php
-Подключение агента происходит во время инсталяции модуля - /local/modules/only.site/install/index.php 
-Скриншот с подключенным агентом в админке - Agent.png
-Миграция инфоблока LOG при помощи которого все тестировал - /local/php_interface/migrations/IB_LOG_MIGRATION_Version20220824100302.php
+Выполнил все требуемые пункты задания.  
+Подписка на события OnAfterIBlockElementAdd и OnAfterIBlockElementUpdate - /local/php_interface/init.php  
+Модуль only.site - /local/modules/only.site  
+Обработчик событий - /local/modules/only.site/lib/Handlers/Iblock.php  
+Агент удаляющий логи - /local/modules/only.site/lib/Agents/Iblock.php  
+Подключение агента происходит во время инсталяции модуля - /local/modules/only.site/install/index.php  
+Скриншот с подключенным агентом в админке - Agent.png  
+Миграция инфоблока LOG при помощи которого все тестировал - /local/php_interface/migrations/IB_LOG_MIGRATION_Version20220824100302.php  
